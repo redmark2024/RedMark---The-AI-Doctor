@@ -1,0 +1,11 @@
+streamlit
+speechrecognition
+pyttsx3
+gtts
+googletrans==4.0.0rc1
+pillow
+langdetect
+openai
+git add requirements.txt
+git commit -m "Add requirements.txt for Streamlit deployment"
+git push
